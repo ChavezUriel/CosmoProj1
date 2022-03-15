@@ -1,0 +1,1 @@
+Here I have the programs I made for project 1 of Cosmology course. I solved numerically the Friedman equation for Lambda-CDM and made some calculations on measurable distances which were compared to type-Ia supernovae experimental data.
